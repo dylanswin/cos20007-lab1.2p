@@ -13,7 +13,6 @@ namespace COS2007_Lab1._2P
 		public void Print()
 		{
 			Console.WriteLine(_text);
-			Console.ReadKey();
 		}
 	}
 }

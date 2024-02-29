@@ -8,7 +8,7 @@ namespace COS2007_Lab1._2P
             Message myMessage = new("Hello, World! Greetings from Message Object.");
             myMessage.Print();
 
-            Message[] messages = new Message[4];
+            Message[] messages = new Message[5];
 
             messages[0] = new("Hello Dylan, nice to see you again!");
             messages[1] = new("Hello Chris, intersting you are here!");
